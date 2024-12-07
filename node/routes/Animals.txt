@@ -1,0 +1,40 @@
+animal: Dog
+male
+2222
+bones
+
+animal: Cat
+female
+3333
+milk
+
+animal: Lion
+male
+1111
+meat
+
+animal: Rabbit
+female
+4444
+lettuce and carrots
+
+animal: Fish
+male
+5555
+smallFish
+
+animal: Tiger
+female
+7777
+milk
+
+animal: Cow
+male
+6666
+Straw
+
+animal: Elephant
+female
+8888
+penuts
+

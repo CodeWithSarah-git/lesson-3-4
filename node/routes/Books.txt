@@ -1,0 +1,40 @@
+book: Mahalel
+Maya K
+101
+950
+
+book: Pedael
+Maya K
+103
+970
+
+book: Isterak
+Maya K
+100
+900
+
+book: Yozavad
+Maya K
+102
+1000
+
+book: Esterika
+Ruty Kepler
+200
+450
+
+book: Hello To You Friend
+Menucha Fuchs
+301
+150
+
+book: Normel Like Me
+Ruty Kepler
+201
+500
+
+book: The Last Memory
+Menucha Fuchs
+300
+480
+
